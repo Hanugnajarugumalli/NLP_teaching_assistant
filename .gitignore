@@ -1,0 +1,27 @@
+# Environment and secrets
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives (optional - remove if you want to track zip)
+*.zip
+
+# Output / large or generated files (customize as needed)
+# output/
